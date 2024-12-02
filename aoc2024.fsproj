@@ -7,7 +7,9 @@
 
   <ItemGroup>
     <Content Include="Day01\input01.txt" />
+    <Content Include="Day01\input02.txt" />
     <Compile Include="Day01\Part01.fs" />
+    <Compile Include="Day01\Part02.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
