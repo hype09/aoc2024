@@ -8,5 +8,7 @@
 // printfn "Solution for Day 4 (Part 2): %A" Day04.Part02.solution
 // printfn "Solution for Day 5 (Part 1): %A" Day05.Part01.solution
 // printfn "Solution for Day 5 (Part 2): %A" Day05.Part02.solution
-printfn "Solution for Day 6 (Part 1): %A" Day06.Part01.solution
-printfn "Solution for Day 6 (Part 2): %A" Day06.Part02.solution
+// printfn "Solution for Day 6 (Part 1): %A" Day06.Part01.solution
+// printfn "Solution for Day 6 (Part 2): %A" Day06.Part02.solution
+printfn "Solution for Day 7 (Part 1): %A" Day07.Part01.solution
+printfn "Solution for Day 7 (Part 2): %A" Day07.Part02.solution
