@@ -17,6 +17,7 @@
     <Content Include="Day08\input01.txt" />
     <Content Include="Day10\input01.txt" />
     <Content Include="Day11\input01.txt" />
+    <Content Include="Day14\input01.txt" />
     <Compile Include="Day01\Part01.fs" />
     <Compile Include="Day01\Part02.fs" />
     <Compile Include="Day02\Part01.fs" />
@@ -37,7 +38,13 @@
     <Compile Include="Day10\Part02.fs" />
     <Compile Include="Day11\Part01.fs" />
     <Compile Include="Day11\Part02.fs" />
+    <Compile Include="Day14\Part01.fs" />
+    <Compile Include="Day14\Part02.fs" />    
     <Compile Include="Program.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SkiaSharp" Version="3.116.1" />
   </ItemGroup>
 
 </Project>
