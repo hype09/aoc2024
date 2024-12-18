@@ -20,5 +20,7 @@
 // printfn "Solution for Day 11 (Part 2): %A" Day11.Part02.solution
 // printfn "Solution for Day 14 (Part 1): %A" Day14.Part01.solution
 // printfn "Solution for Day 14 (Part 2): %A" Day14.Part02.solution
-printfn "Solution for Day 15 (Part 1): %A" Day15.Part01.solution
-printfn "Solution for Day 15 (Part 2): %A" Day15.Part02.solution
+// printfn "Solution for Day 15 (Part 1): %A" Day15.Part01.solution
+// printfn "Solution for Day 15 (Part 2): %A" Day15.Part02.solution
+printfn "Solution for Day 17 (Part 1): %A" Day17.Part01.solution
+printfn "Solution for Day 17 (Part 2): %A" Day17.Part02.solution
